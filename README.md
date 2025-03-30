@@ -10,3 +10,12 @@ Paper vs Scissor -> Scissor wins
 In this game, the user is asked to make choices based on both computer and user choices and the results are displayed showing both computer and user choices.
 
 Technologies Required: C++ programming language, I/O Streams, Standard Library Functions.
+
+# Game Rules Recap:
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+If both the user and computer choose the same item, it's a draw
