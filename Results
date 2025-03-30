@@ -1,0 +1,9 @@
+Choose one of the following:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1-3): 3
+
+You chose: Scissors
+Computer chose: Rock
+Computer wins!
